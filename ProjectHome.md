@@ -1,0 +1,1 @@
+Hough transformation is a feature extraction technique used in image analysis, computer vision, and digital image processing.The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure. This plugin is used for the lines detection on the map.
